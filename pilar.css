@@ -30,6 +30,7 @@ html {
 }
 body {
   margin: 0;
+  line-height: 36px;
 }
 a:focus {
   outline: thin dotted;
